@@ -1,0 +1,24 @@
+body{
+    background-color: #c4c4c4;
+}
+.your-class{
+    position: relative;
+}
+.hero-slider__check{
+    position: relative;
+    border: 1px solid #fff;
+
+}
+.hero-slider__check li{
+    background-color: red;
+    border-radius: 50%;
+}
+.hero-slider__check li.slick-active{
+    background-color: blue;
+}
+.links-slider-next,
+.links-slider-prev{
+    width: 20px;
+    height: 20px;
+    border: 1px solid #fff;
+}
